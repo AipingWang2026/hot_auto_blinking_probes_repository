@@ -4,7 +4,7 @@ This repository contains the custom analysis scripts developed and used in our s
 
 - **MINFLUX data analysis**
 - **ONI data analysis**
-- **Single-molecule photophysical properties (HoTprobes)**
+- **Single-molecule photophysical properties**
 - **Vutara data analysis**
 - **Voronoi analysis**
 - **Radius of Gyration**
